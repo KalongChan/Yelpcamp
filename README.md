@@ -25,11 +25,11 @@ A fullstack project from the Udemy course "The Web Developer Bootcamp 2022" by C
 <b>Frontend</b>
 <ol>
 <li>Bootstrap 5</li>
+<li>Ejs</li>
 </ol>
 
 <b>Backend</b>
 <ol>
-<li>Ejs</li>
 <li>Express</li>
 <li>Mongoose</li>
 <li>Method-override</li>
